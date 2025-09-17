@@ -1,1 +1,3 @@
-# event-management-21899-21938
+# Project Repository
+
+This is the initial README file for the project.
